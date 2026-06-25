@@ -1,0 +1,11 @@
+/home/mailson/TestesDeSoftware/Calculadora/bin/Debug/net10.0/Calculadora.deps.json
+/home/mailson/TestesDeSoftware/Calculadora/bin/Debug/net10.0/Calculadora.dll
+/home/mailson/TestesDeSoftware/Calculadora/bin/Debug/net10.0/Calculadora.pdb
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.AssemblyInfoInputs.cache
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.AssemblyInfo.cs
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.dll
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/refint/Calculadora.dll
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/Calculadora.pdb
+/home/mailson/TestesDeSoftware/Calculadora/obj/Debug/net10.0/ref/Calculadora.dll
